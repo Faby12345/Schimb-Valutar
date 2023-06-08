@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ArrayOfCurrency xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Currency Nume="werw" Symbol="er" Amplification="1" />
-  <Currency Nume="werw" Symbol="er" Amplification="1" />
-  <Currency Nume="werw" Symbol="er" Amplification="1" />
-  <Currency Nume="dolar america" Symbol="USD" Amplification="1" />
-</ArrayOfCurrency>
